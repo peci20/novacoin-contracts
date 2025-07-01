@@ -21,23 +21,35 @@
 - 🪙 **Buyable via PancakeSwap**  
 - 💸 **Low Fee Transactions**  
 - 🔐 **Community-Led Project**  
-- ⚙️ **ThirdWeb Integration Support**
+- ⚙️ **Web3 Ready Infrastructure**
 
 ---
 
-## 📦 Integration Example (Thirdweb React)
+## 📄 Whitepaper
 
-```javascript
-import { BuyWidget } from "thirdweb/react";
+Read our official whitepaper here: [Whitepaper PDF](https://nova-coin-web.info/whitepaper.pdf)  
+Or visit the online version: [https://nova-coin-web.info/whitepaper](https://nova-coin-web.info/whitepaper)
 
-export default function App() {
-  return (
-    <BuyWidget
-      clientId="afe7440e41b16785bc626219d5279930"
-      chain="binance"
-      tokenAddress="0x2cB9DC3F6D12ECcA6Ea4d7621c70BFBCA46b5ee7"
-      recipient="YOUR_WALLET_ADDRESS"
-      theme="light"
-    />
-  );
-}
+---
+
+## 🌐 Official Links
+
+- 🌍 Website: [https://nova-coin-web.info](https://nova-coin-web.info)  
+- 📩 Email: info@nova-coin-web.info  
+- 📢 Telegram: [https://t.me/NovaCoinChannel](https://t.me/NovaCoinChannel) *(or your actual Telegram link)*  
+- 🛒 PancakeSwap: [Buy NOVA](https://pancakeswap.finance/swap?outputCurrency=0x2cB9DC3F6D12ECcA6Ea4d7621c70BFBCA46b5ee7)
+
+---
+
+## 🤝 Contributing
+
+Contributions, pull requests, and feedback are welcome. Let's build the future of Web3 together.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **Apache-2.0** License.  
+See the [LICENSE](LICENSE) file for more details.
+
+---
